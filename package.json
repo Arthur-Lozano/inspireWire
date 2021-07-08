@@ -1,0 +1,20 @@
+{
+  "name": "inspirewire",
+  "version": "1.0.0",
+  "description": "A React Native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur-Lozano/inspireWire.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthur-Lozano/inspireWire/issues"
+  },
+  "homepage": "https://github.com/Arthur-Lozano/inspireWire#readme"
+}
